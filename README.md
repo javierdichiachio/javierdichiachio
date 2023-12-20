@@ -1,28 +1,25 @@
- # 👋 Hola! Mi nombre es Javier Dichiachio
- 
+# 👋 Hi there! My name is Javier Dichiachio
 
-## ¿Quién soy? 🙋
-Soy un **Data Scientist** con una sólida experiencia en Contabilidad y Auditoría; siempre me he sentido cómodo trabajando con datos o números, pero fue al adentrarme en el mundo del Análisis y la Ciencia de Datos que descubrí una nueva perspectiva 😯💡: integrando nuevas herramientas tecnológicas como Python, SQL o Power BI, he ampliado mi visión y entendimiento acerca de cómo trabajar los datos de manera dinámica, obteniendo información de calidad para la toma de decisiones. **Disfruto descubriendo patrones** intrigantes y **generando insights** significativos.
+## Who am I? 🙋
+I'm a **Data Scientist** with a solid background in Accounting and Auditing; I have always felt comfortable working with data or numbers, but it was when I delved into the world of Data Science that I discovered a new perspective 😯💡: by integrating cutting-edge technological tools such as Python, SQL, or Power BI, I have broadened my vision and understanding of how to dynamically approach data, extracting quality insights for decision-making. I **enjoy uncovering** intriguing patterns and **generating meaningful insights**.
 
+## Technical Skills 💻
+The main technologies I work with include:
 
-## ¿Qué tecnologías uso? 💻
-Las principales tecnologías que manejo son: 
-
-- **Python**: librerías **Numpy, Pandas, Matplotlib, Seaborn, Scikit-Learn, Surprise, NLTK, Prophet, Auto TS** 
-- **Data visualization: Microsoft Power BI y Tableau**
-- **SQL y NoSQL**
+- **Python**: libraries such as **Numpy, Pandas, Matplotlib, Seaborn, Scikit-Learn, Surprise, NLTK, Prophet, Auto TS** 
+- **Data visualization: Microsoft Power BI and Tableau**
+- **SQL and NoSQL**
 - **Big Data: Hadoop, Hive, Apache Spark**
 - **VSC**
 - **GIT**
 
+## Where am I heading? 🔎
+My professional goal is to **continue growing** in the field of data science, contributing to innovative projects, and **constantly learning new technologies**. Always ready to collaborate on projects that blend the precision of numbers with the power of data science.
 
-## ¿A dónde me dirijo? 🔎
-Mi objetivo profesional es **seguir creciendo** en el campo de la ciencia de datos, contribuyendo a proyectos innovadores y **aprendiendo continuamente nuevas tecnologías**. Siempre listo para colaborar en proyectos que unan la precisión de los números con el poder de la ciencia de datos. 
+Let's build something amazing together! 💥🚀
 
-¡Vamos a construir algo increíble juntos!💥🚀
+### Feel free to contact me! 📥
 
-
-### No dudes en contactarme! 📥
 
 <p align="left">
   <a href="https://www.linkedin.com/in/javier-dichiachio-34104857/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
